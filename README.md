@@ -29,7 +29,7 @@ Algunas cosas sobre mí:
 </a>
 <a href="https://github.com/Fuhrerh-Lemon/Dotfiles">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fuhrerh-Lemon&repo=Dotfiles&theme=tokyonight&show_owner=true" />
-</a>
+</a>  
 
 ![GitHub stars](https://img.shields.io/github/stars/Fuhrerh-Lemon/Fuhrerh-Lemon?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Fuhrerh-Lemon/Fuhrerh-Lemon?label=Fork&style=social)
