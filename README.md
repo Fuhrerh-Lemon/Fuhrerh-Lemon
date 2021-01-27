@@ -14,7 +14,7 @@ Algunas cosas sobre mí:
 <code><img height="30" src="https://github.com/Fuhrerh-Lemon/Fuhrerh-Lemon/blob/main/img/Git.png"></code>
 <code><img height="30" src="https://github.com/Fuhrerh-Lemon/Fuhrerh-Lemon/blob/main/img/Gitkraken.png"></code>
 <code><img height="30" src="https://github.com/Fuhrerh-Lemon/Fuhrerh-Lemon/blob/main/img/Typescript.png"></code>
-<code><img height="30" src="https://github.com/Fuhrerh-Lemon/Fuhrerh-Lemon/blob/main/img/rust.png"></code>
+<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
 <code><img height="30" src="https://github.com/Fuhrerh-Lemon/Fuhrerh-Lemon/blob/main/img/cpp.png"></code>
 <code><img height="30" src="https://github.com/Fuhrerh-Lemon/Fuhrerh-Lemon/blob/main/img/Golang.png"></code>
 <code><img height="30" src="https://github.com/Fuhrerh-Lemon/Fuhrerh-Lemon/blob/main/img/Python.png"></code>
