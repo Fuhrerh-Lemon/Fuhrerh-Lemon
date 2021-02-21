@@ -29,8 +29,3 @@ Hi there, I'm Vanger 👋.  Programador aficionado & desarrollador open source, 
 <a href="https://github.com/Fuhrerh-Lemon/Dotfiles">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fuhrerh-Lemon&repo=Dotfiles&theme=tokyonight&show_owner=true" />
 </a>  
-
-![GitHub stars](https://img.shields.io/github/stars/Fuhrerh-Lemon/Fuhrerh-Lemon?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Fuhrerh-Lemon/Fuhrerh-Lemon?label=Fork&style=social)
-![GitHub followers](https://img.shields.io/github/followers/Fuhrerh-Lemon?label=Follow&style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/Fuhrerh-Lemon/Fuhrerh-Lemon?style=social)
