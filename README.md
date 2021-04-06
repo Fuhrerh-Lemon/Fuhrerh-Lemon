@@ -4,7 +4,7 @@
     <img width="150px" height="150px" style="border-radius: 50%;" src="https://pa1.narvii.com/6542/3adf310cb48c0a45b7d442f175929348ac2f15eb_hq.gif"/>
   <br><br>
   <samp>
-Hi there, I'm Vanger 👋.  Programador aficionado & desarrollador open source, de Panamá. 🐱‍🚀Aprendiendo Golang,  Me gustan las lolis ༼ つ ◕_◕ ༽つ... naaah no te creas. No soy bilingüe, apenas y domino el español 🐱‍🐉.
+Hola, soy Vanger 👋.  Programador aficionado & desarrollador open source, de Panamá. 🐱‍🚀Aprendiendo Golang,  Me gustan las lolis ༼ つ ◕_◕ ༽つ... naaah no te creas. No soy bilingüe, apenas y domino el español 🐱‍🐉.
   </samp>
 </p>
 
@@ -20,12 +20,4 @@ Hi there, I'm Vanger 👋.  Programador aficionado & desarrollador open source, 
 <code><img height="30" src="https://github.com/Fuhrerh-Lemon/Fuhrerh-Lemon/blob/main/img/Bash.png"></code>  
 ## Donde me puedes encontrar
 * <code><img height="30" src="https://github.com/Fuhrerh-Lemon/Fuhrerh-Lemon/blob/main/img/HackerRank.png">[HackerRank](https://www.hackerrank.com/Vanger)</code>
-* <code><img height="30" src="https://github.com/Fuhrerh-Lemon/Fuhrerh-Lemon/blob/main/img/CodeinGame.png">[CodeinGame](https://www.codingame.com/profile/131ba8573400c5b052f2bd309206e1188977683)</code>  
-
-## Algunos Repositorios: 
-<a href="https://github.com/Fuhrerh-Lemon/ArchLemon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fuhrerh-Lemon&repo=ArchLemon&theme=tokyonight&show_owner=true" />
-</a>
-<a href="https://github.com/Fuhrerh-Lemon/Dotfiles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fuhrerh-Lemon&repo=Dotfiles&theme=tokyonight&show_owner=true" />
-</a>  
+* <code><img height="30" src="https://github.com/Fuhrerh-Lemon/Fuhrerh-Lemon/blob/main/img/CodeinGame.png">[CodeinGame](https://www.codingame.com/profile/131ba8573400c5b052f2bd309206e1188977683)</code>   
