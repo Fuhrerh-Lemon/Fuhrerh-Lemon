@@ -20,4 +20,4 @@ Hola, soy Vanger 👋.  Programador aficionado & desarrollador open source, de P
 <code><img height="30" src="https://github.com/Fuhrerh-Lemon/Fuhrerh-Lemon/blob/main/img/Bash.png"></code>  
 ## Donde me puedes encontrar
 * <code><img height="30" src="https://github.com/Fuhrerh-Lemon/Fuhrerh-Lemon/blob/main/img/HackerRank.png">[HackerRank](https://www.hackerrank.com/Vanger)</code>
-* <code><img height="30" src="https://github.com/Fuhrerh-Lemon/Fuhrerh-Lemon/blob/main/img/CodeinGame.png">[CodeinGame](https://www.codingame.com/profile/131ba8573400c5b052f2bd309206e1188977683)</code>   
+(https://www.codingame.com/profile/131ba8573400c5b052f2bd309206e1188977683)</code>   
